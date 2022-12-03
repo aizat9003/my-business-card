@@ -1,0 +1,19 @@
+.hero {
+    width: 200px;
+    border-radius: 0%;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Mulish', sans-serif;
+    background: #ccd5ae;
+    width: 500px;
+    border-bottom: 5px solid #d4a373;
+    margin: 200px auto;
+
+}
+
+.card-info {
+    margin-top: 50px;
+}
